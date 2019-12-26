@@ -27,4 +27,8 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
+    implementation 'org.apache.commons:com.springsource.org.apache.commons.attributes:2.2.0'
+    implementation 'commons-io:commons-io:20030203.000550'
+    implementation 'com.appunity.retrofit2:adapter-guava:2.0.2'
+    implementation 'com.appunity.retrofit2:converter-gson:2.0.2'
 }
